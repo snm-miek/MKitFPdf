@@ -1,0 +1,12 @@
+{
+  "name": "MKitFPdf",
+  "id": "",
+  "api": "1.0.0",
+  "main": "build/figma.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figma"
+  ],
+  "ui": "build/index.html"
+}
